@@ -1,0 +1,23 @@
+{
+  "name": "typescript-lecture",
+  "version": "1.0.0",
+  "description": "웹 게임을 만들며 배우는 TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suksa/typescript-lecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suksa/typescript-lecture/issues"
+  },
+  "homepage": "https://github.com/suksa/typescript-lecture#readme",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
