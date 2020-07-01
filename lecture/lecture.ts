@@ -47,3 +47,4 @@ document.querySelectorAll('.btn').forEach((btn) => {
 if (document.querySelector('#computer')) {
   (document.querySelector('#computer') as HTMLDivElement).style.background = `#ddd`
 }
+
