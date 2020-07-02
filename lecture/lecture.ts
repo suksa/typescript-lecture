@@ -48,3 +48,4 @@ if (document.querySelector('#computer')) {
   (document.querySelector('#computer') as HTMLDivElement).style.background = `#ddd`
 }
 
+
